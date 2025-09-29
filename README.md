@@ -4,11 +4,10 @@ This project is a Streamlit-based chatbot that answers natural language question
 ---
 
 ## 📚 Table of Contents
-- [📊 Featuers](#features)
-- [📈 Visual Demo](#-visual-demo)
-- [📌 Project Overview](#-project-overview)
-- [🗂️ Data Source ](#-data-source)
-- [🛠️ Technology Stack](#️-technology-stack)
+- [📊 Featuers](#🚀Features)
+- [📁 Files](#📁Files)
+- [🗂️ Data Source ](#-🗂️-Data-Source)
+- [🛠️ Requirements](#️🛠️-Requirements)
 - [🚀 Setup and Local Installation](#-setup-and-local-installation)
 - [📄 License](#-license)
 
