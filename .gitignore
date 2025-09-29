@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Jupyter/Notebook checkpoints
+.ipynb_checkpoints/
+
+# Excel/CSV files (optional, if you want to avoid committing large datasets)
+*.xlsx
+*.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# PyInstaller or similar
+dist/
+build/
+*.spec
